@@ -11,8 +11,8 @@
 
 ### 🌈 Brought to you by **GCP Decode** × **CloudoArc** 🌈
 
-## Distributed Load Testing Using Kubernetes
-### GSP182
+## Developing a REST API with Go and Cloud Run
+### GSP761
 
 <br/>
 
